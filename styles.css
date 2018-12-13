@@ -1,0 +1,79 @@
+.rpg{
+     display:flex;
+     justify-content:flex-start;
+}
+ .r{
+    border:2px solid White;
+     padding:4px;
+     margin:2px;
+}
+ .p{
+    border:2px solid White;
+     padding:4px;
+     margin:2px;
+}
+ .p:hover{
+     color:red;
+}
+ .gpr{
+    display:flex;
+     justify-content:flex-end;
+}
+ .g {
+    border:2px solid White;
+     padding:4px;
+     margin:2px;
+}
+ .h {
+    border:2px solid White;
+     padding:4px;
+     margin:2px;
+}
+ .g:hover{
+     color:red;
+}
+ a:hover{
+    border:20px;
+     color:red;
+}
+ .j {
+    border:2px solid White;
+     padding:4px;
+     margin:2px;
+}
+ .j:hover{
+     color:blue;
+}
+ .l {
+    border:2px solid White;
+     padding:4px;
+     margin:2px;
+}
+ .l:hover{
+     color:pink;
+}
+ .opo{
+    display:flex;
+}
+ .x{
+    width:1000px;
+}
+ .c{
+    width:250px;
+}
+ .z{
+    width:250px;
+}
+ .n{
+    margin:50px;
+}
+ .m{
+    width:200px;
+}
+ P{
+    color:White;
+}
+ body {
+    background:black;
+}
+ 
